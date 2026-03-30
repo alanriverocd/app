@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590804727431",
+    "project_id": "finatiol",
+    "storage_bucket": "finatiol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590804727431:android:39fa1d54eb289d22c8aa22",
+        "android_client_info": {
+          "package_name": "com.finatiol.finatiol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr3ezTEnhlcw2uILwZfsfJL9JpDBrmqkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
